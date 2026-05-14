@@ -1,0 +1,4 @@
+com.mindmatrix.santheconnect.test.app-androidTest-0 C:\Users\deeks\Downloads\SantheConnect (1)\SantheConnect\app\build\generated\res\resValues\androidTest\debug
+com.mindmatrix.santheconnect.test.app-mergeDebugAndroidTestResources-1 C:\Users\deeks\Downloads\SantheConnect (1)\SantheConnect\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.mindmatrix.santheconnect.test.app-mergeDebugAndroidTestResources-2 C:\Users\deeks\Downloads\SantheConnect (1)\SantheConnect\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.mindmatrix.santheconnect.test.app-debugAndroidTest-3 C:\Users\deeks\Downloads\SantheConnect (1)\SantheConnect\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

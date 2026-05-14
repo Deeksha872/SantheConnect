@@ -27,7 +27,6 @@
         android:label="Santhe-Connect"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:testOnly="true"
         android:theme="@style/Theme.SantheConnect" >
         <meta-data
             android:name="com.google.android.geo.API_KEY"
