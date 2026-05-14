@@ -1,0 +1,59 @@
+com.mindmatrix.santheconnect.app-runtime-saveable-release-0 C:\Users\deeks\.gradle\caches\transforms-4\00e4cd4c9efc8a902dd056d9a241dc00\transformed\runtime-saveable-release\res
+com.mindmatrix.santheconnect.app-annotation-experimental-1.4.1-1 C:\Users\deeks\.gradle\caches\transforms-4\01aa0fd5c9c60c700645f726e734a5bb\transformed\annotation-experimental-1.4.1\res
+com.mindmatrix.santheconnect.app-navigation-compose-2.8.0-2 C:\Users\deeks\.gradle\caches\transforms-4\046173d26a1a8cf93cbf614c233c8fce\transformed\navigation-compose-2.8.0\res
+com.mindmatrix.santheconnect.app-material-icons-core-release-3 C:\Users\deeks\.gradle\caches\transforms-4\05c42fe271e552d15e7a69bef3514cad\transformed\material-icons-core-release\res
+com.mindmatrix.santheconnect.app-activity-1.9.2-4 C:\Users\deeks\.gradle\caches\transforms-4\0a3405767f5f2819ae8703266d3274da\transformed\activity-1.9.2\res
+com.mindmatrix.santheconnect.app-savedstate-ktx-1.2.1-5 C:\Users\deeks\.gradle\caches\transforms-4\0ea79870acfbcf58b4039df60fe78aca\transformed\savedstate-ktx-1.2.1\res
+com.mindmatrix.santheconnect.app-foundation-layout-release-6 C:\Users\deeks\.gradle\caches\transforms-4\0f438bdb814abda7a42cf0ca38f5b06b\transformed\foundation-layout-release\res
+com.mindmatrix.santheconnect.app-core-1.13.1-7 C:\Users\deeks\.gradle\caches\transforms-4\11020aafc028db5f5b4c3780b162e5cf\transformed\core-1.13.1\res
+com.mindmatrix.santheconnect.app-runtime-release-8 C:\Users\deeks\.gradle\caches\transforms-4\131a7cc30447252ce2ce1547d16b8797\transformed\runtime-release\res
+com.mindmatrix.santheconnect.app-animation-core-release-9 C:\Users\deeks\.gradle\caches\transforms-4\1704dad826319407f40610b88ace086d\transformed\animation-core-release\res
+com.mindmatrix.santheconnect.app-lifecycle-livedata-core-ktx-2.8.5-10 C:\Users\deeks\.gradle\caches\transforms-4\1e5b174fce62179d34523a7c2a767427\transformed\lifecycle-livedata-core-ktx-2.8.5\res
+com.mindmatrix.santheconnect.app-ui-graphics-release-11 C:\Users\deeks\.gradle\caches\transforms-4\241ec762f46eb926349e2d70bb71b68a\transformed\ui-graphics-release\res
+com.mindmatrix.santheconnect.app-navigation-common-2.8.0-12 C:\Users\deeks\.gradle\caches\transforms-4\27b4d0cdc4e27033be0d4090cb2d7ed6\transformed\navigation-common-2.8.0\res
+com.mindmatrix.santheconnect.app-activity-compose-1.9.2-13 C:\Users\deeks\.gradle\caches\transforms-4\29e4e63a141c2005383674578f34219a\transformed\activity-compose-1.9.2\res
+com.mindmatrix.santheconnect.app-ui-tooling-data-release-14 C:\Users\deeks\.gradle\caches\transforms-4\310f672aa5d1c902d0cffad9fe12ccbb\transformed\ui-tooling-data-release\res
+com.mindmatrix.santheconnect.app-lifecycle-viewmodel-release-15 C:\Users\deeks\.gradle\caches\transforms-4\323105a200ad26c853734a6d3360feb9\transformed\lifecycle-viewmodel-release\res
+com.mindmatrix.santheconnect.app-play-services-base-18.3.0-16 C:\Users\deeks\.gradle\caches\transforms-4\36c713f2894190d07e8033dcbf194c3c\transformed\play-services-base-18.3.0\res
+com.mindmatrix.santheconnect.app-ui-tooling-preview-release-17 C:\Users\deeks\.gradle\caches\transforms-4\3dcecb4e390fd70c7a2ec7e32562b0a4\transformed\ui-tooling-preview-release\res
+com.mindmatrix.santheconnect.app-savedstate-1.2.1-18 C:\Users\deeks\.gradle\caches\transforms-4\3e8b297b1ba8a4001dcf149a91bcd2a8\transformed\savedstate-1.2.1\res
+com.mindmatrix.santheconnect.app-lifecycle-livedata-core-2.8.5-19 C:\Users\deeks\.gradle\caches\transforms-4\468d3c5ab48ecd60477b8053aeffb233\transformed\lifecycle-livedata-core-2.8.5\res
+com.mindmatrix.santheconnect.app-material-icons-extended-release-20 C:\Users\deeks\.gradle\caches\transforms-4\4ba790148e2cf2cd2bc038876c9c31bd\transformed\material-icons-extended-release\res
+com.mindmatrix.santheconnect.app-ui-util-release-21 C:\Users\deeks\.gradle\caches\transforms-4\4eb3f05dbf41089ff5517b635f53209f\transformed\ui-util-release\res
+com.mindmatrix.santheconnect.app-core-ktx-1.13.1-22 C:\Users\deeks\.gradle\caches\transforms-4\551aa118467ca47add4207a75fd4452e\transformed\core-ktx-1.13.1\res
+com.mindmatrix.santheconnect.app-lifecycle-livedata-2.8.5-23 C:\Users\deeks\.gradle\caches\transforms-4\5d7ff7cc46bdc8689b8ad84c2471c48a\transformed\lifecycle-livedata-2.8.5\res
+com.mindmatrix.santheconnect.app-ui-release-24 C:\Users\deeks\.gradle\caches\transforms-4\611497a3c6fe2b0e6a6e1edc45b18734\transformed\ui-release\res
+com.mindmatrix.santheconnect.app-ui-geometry-release-25 C:\Users\deeks\.gradle\caches\transforms-4\6558af4bff87703ce459b8c0b9d0150d\transformed\ui-geometry-release\res
+com.mindmatrix.santheconnect.app-play-services-basement-18.3.0-26 C:\Users\deeks\.gradle\caches\transforms-4\72521fd4b8878f5739d1471af43a6348\transformed\play-services-basement-18.3.0\res
+com.mindmatrix.santheconnect.app-customview-poolingcontainer-1.0.0-27 C:\Users\deeks\.gradle\caches\transforms-4\7c7601a052eb5e77f27b9db80fdff2af\transformed\customview-poolingcontainer-1.0.0\res
+com.mindmatrix.santheconnect.app-ui-tooling-release-28 C:\Users\deeks\.gradle\caches\transforms-4\801ae820dddf747727bf4eef02cb2c18\transformed\ui-tooling-release\res
+com.mindmatrix.santheconnect.app-lifecycle-viewmodel-ktx-2.8.5-29 C:\Users\deeks\.gradle\caches\transforms-4\878badca6bacc222503998053d3a6224\transformed\lifecycle-viewmodel-ktx-2.8.5\res
+com.mindmatrix.santheconnect.app-emoji2-1.3.0-30 C:\Users\deeks\.gradle\caches\transforms-4\8b267d489be55e587331e436801a2fe2\transformed\emoji2-1.3.0\res
+com.mindmatrix.santheconnect.app-ui-unit-release-31 C:\Users\deeks\.gradle\caches\transforms-4\978a228daf4f2e20023af34399b78af4\transformed\ui-unit-release\res
+com.mindmatrix.santheconnect.app-lifecycle-runtime-compose-release-32 C:\Users\deeks\.gradle\caches\transforms-4\99511b1050c0b8ab350e23adc29c6d99\transformed\lifecycle-runtime-compose-release\res
+com.mindmatrix.santheconnect.app-animation-release-33 C:\Users\deeks\.gradle\caches\transforms-4\9de26c0bffba5cf06cdd51171b7ac46a\transformed\animation-release\res
+com.mindmatrix.santheconnect.app-lifecycle-runtime-ktx-release-34 C:\Users\deeks\.gradle\caches\transforms-4\9f30e2bf5a0dba00c91ec0754b8585cb\transformed\lifecycle-runtime-ktx-release\res
+com.mindmatrix.santheconnect.app-lifecycle-process-2.8.5-35 C:\Users\deeks\.gradle\caches\transforms-4\b02567e0e5c739b34033f8cd215c930f\transformed\lifecycle-process-2.8.5\res
+com.mindmatrix.santheconnect.app-lifecycle-viewmodel-savedstate-2.8.5-36 C:\Users\deeks\.gradle\caches\transforms-4\b1242fc2a1232635fe41f47820d9c32e\transformed\lifecycle-viewmodel-savedstate-2.8.5\res
+com.mindmatrix.santheconnect.app-material-ripple-release-37 C:\Users\deeks\.gradle\caches\transforms-4\b40317fe271f11fd6e00ecb4e41962d2\transformed\material-ripple-release\res
+com.mindmatrix.santheconnect.app-navigation-common-ktx-2.8.0-38 C:\Users\deeks\.gradle\caches\transforms-4\b4c8cbbfb81d081dd47f5a64fcd967b9\transformed\navigation-common-ktx-2.8.0\res
+com.mindmatrix.santheconnect.app-material3-release-39 C:\Users\deeks\.gradle\caches\transforms-4\c8ad1e869fe5dc07c17e5db467159ac7\transformed\material3-release\res
+com.mindmatrix.santheconnect.app-ui-text-release-40 C:\Users\deeks\.gradle\caches\transforms-4\c8dbaf7f14a9e24b669b8022052c416e\transformed\ui-text-release\res
+com.mindmatrix.santheconnect.app-graphics-path-1.0.1-41 C:\Users\deeks\.gradle\caches\transforms-4\ce8b48c5ce21686edf5d8c0b7b0465d3\transformed\graphics-path-1.0.1\res
+com.mindmatrix.santheconnect.app-material-release-42 C:\Users\deeks\.gradle\caches\transforms-4\d0506f5249463ffc6f63626b7eb5a36e\transformed\material-release\res
+com.mindmatrix.santheconnect.app-navigation-runtime-2.8.0-43 C:\Users\deeks\.gradle\caches\transforms-4\dd6973ae3b6b549269844789806eb4c7\transformed\navigation-runtime-2.8.0\res
+com.mindmatrix.santheconnect.app-lifecycle-viewmodel-compose-release-44 C:\Users\deeks\.gradle\caches\transforms-4\e10c61a94c1bb2df5c0661e7f8b170a7\transformed\lifecycle-viewmodel-compose-release\res
+com.mindmatrix.santheconnect.app-startup-runtime-1.1.1-45 C:\Users\deeks\.gradle\caches\transforms-4\e41aed3dc80bc6092eef585fcaf593b1\transformed\startup-runtime-1.1.1\res
+com.mindmatrix.santheconnect.app-navigation-runtime-ktx-2.8.0-46 C:\Users\deeks\.gradle\caches\transforms-4\e51e013ad4d4657f7fae6a7c4ffacf8e\transformed\navigation-runtime-ktx-2.8.0\res
+com.mindmatrix.santheconnect.app-activity-ktx-1.9.2-47 C:\Users\deeks\.gradle\caches\transforms-4\e712d40efcf6f1efb527d0e6f9a6d6c5\transformed\activity-ktx-1.9.2\res
+com.mindmatrix.santheconnect.app-foundation-release-48 C:\Users\deeks\.gradle\caches\transforms-4\eab2c0ddb62209aca50b1a8fc9d4c9c6\transformed\foundation-release\res
+com.mindmatrix.santheconnect.app-core-runtime-2.2.0-49 C:\Users\deeks\.gradle\caches\transforms-4\edaff893c675659755047fa3c0ac4da6\transformed\core-runtime-2.2.0\res
+com.mindmatrix.santheconnect.app-lifecycle-runtime-release-50 C:\Users\deeks\.gradle\caches\transforms-4\f2152de778b1284ee45c059a89c8bc30\transformed\lifecycle-runtime-release\res
+com.mindmatrix.santheconnect.app-profileinstaller-1.3.1-51 C:\Users\deeks\.gradle\caches\transforms-4\f8cd404950dbf540e24e3b984f133682\transformed\profileinstaller-1.3.1\res
+com.mindmatrix.santheconnect.app-pngs-52 C:\Users\deeks\Downloads\SantheConnect (1)\SantheConnect\app\build\generated\res\pngs\debug
+com.mindmatrix.santheconnect.app-resValues-53 C:\Users\deeks\Downloads\SantheConnect (1)\SantheConnect\app\build\generated\res\resValues\debug
+com.mindmatrix.santheconnect.app-packageDebugResources-54 C:\Users\deeks\Downloads\SantheConnect (1)\SantheConnect\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.mindmatrix.santheconnect.app-packageDebugResources-55 C:\Users\deeks\Downloads\SantheConnect (1)\SantheConnect\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.mindmatrix.santheconnect.app-debug-56 C:\Users\deeks\Downloads\SantheConnect (1)\SantheConnect\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.mindmatrix.santheconnect.app-debug-57 C:\Users\deeks\Downloads\SantheConnect (1)\SantheConnect\app\src\debug\res
+com.mindmatrix.santheconnect.app-main-58 C:\Users\deeks\Downloads\SantheConnect (1)\SantheConnect\app\src\main\res

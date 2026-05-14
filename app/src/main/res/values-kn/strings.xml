@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ಸಂತೆ-ಕನೆಕ್ಟ್</string>
+    <string name="welcome">ಸಂತೆ-ಕನೆಕ್ಟ್‌ಗೆ ಸ್ವಾಗತ</string>
+    <string name="tagline">ಅಸಲಿ ಆಹಾರ, ಸಂತೆಗಳು, ವಸತಿ ಮತ್ತು ಕರಕುಶಲಗಳನ್ನು ಶೋಧಿಸಿ</string>
+    <string name="nearby">ಹತ್ತಿರದ ಸ್ಥಳಗಳು</string>
+    <string name="calendar">ಸಂತೆ ಕ್ಯಾಲೆಂಡರ್</string>
+    <string name="wall">ಪ್ರವಾಸಿ ಗೋಡೆ</string>
+    <string name="feedback">ಪ್ರತಿಕ್ರಿಯೆ</string>
+    <string name="food">ಆಹಾರ</string>
+    <string name="markets">ಸಂತೆಗಳು</string>
+    <string name="stays">ವಸತಿ</string>
+    <string name="crafts">ಕರಕುಶಲ</string>
+    <string name="search_hint">ಹತ್ತಿರ ಹುಡುಕಿ…</string>
+    <string name="submit">ಸಲ್ಲಿಸಿ</string>
+    <string name="open_in_maps">ನಕ್ಷೆಯಲ್ಲಿ ತೆರೆಯಿರಿ</string>
+    <string name="language_toggle">English / ಕನ್ನಡ</string>
+</resources>

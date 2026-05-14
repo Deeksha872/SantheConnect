@@ -1,0 +1,26 @@
+R_DEF: Internal format may change without notice
+local
+color background
+color ic_launcher_background
+color onPrimary
+color primary
+mipmap ic_launcher
+mipmap ic_launcher_foreground
+mipmap ic_launcher_round
+string app_name
+string calendar
+string crafts
+string feedback
+string food
+string home
+string language_toggle
+string markets
+string nearby
+string open_in_maps
+string search_hint
+string stays
+string submit
+string tagline
+string wall
+string welcome
+style Theme.SantheConnect
